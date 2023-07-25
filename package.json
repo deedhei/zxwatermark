@@ -1,0 +1,27 @@
+{
+  "name": "zxwatermark",
+  "version": "1.0.5",
+  "description": "用于做水印背景墙",
+  "main": "lib/index.js",
+  "jsnext.main": "src/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "前端",
+    "水印",
+    "vue水印"
+  ],
+  "author": "zx",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "babel-loader": "^9.1.3",
+    "css-loader": "^6.8.1",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
