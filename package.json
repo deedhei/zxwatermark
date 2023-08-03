@@ -1,6 +1,6 @@
 {
   "name": "zxwatermark",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "用于做水印背景墙",
   "main": "lib/index.js",
   "jsnext.main": "src/index.js",
@@ -12,6 +12,10 @@
     "水印",
     "vue水印"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deedhei/zxwatermark.git"
+  },
   "author": "zx",
   "license": "ISC",
   "dependencies": {
